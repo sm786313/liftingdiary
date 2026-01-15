@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install @clerk/nextjs)",
+      "Bash(npm run dev)",
+      "Bash(npx next dev -p 3002)",
+      "Bash(npx next dev)",
+      "Bash(npx next dev --port 3003)",
+      "Bash(npx next dev --port 3004)",
+      "Bash(npx next dev --port 3005)",
+      "Bash(cmd /c type \"C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\C--web-liftingdiarycourse\\\\tasks\\\\b9ccd90.output\")",
+      "Bash(taskkill //F //IM node.exe)",
+      "Bash(pkill -f next)",
+      "Bash(node --version)",
+      "Bash(npm --version)",
+      "Bash(findstr node_modules)",
+      "Bash(npx drizzle-kit push)",
+      "Bash(dir /s *.sql *.db *.sqlite *.json *.ts *.js *.tsx *.jsx)",
+      "Bash(findstr /i \"schema\\\\|migrat\\\\|model\\\\|prisma\\\\|drizzle\")",
+      "mcp__neon__run_sql",
+      "mcp__neon__describe_table_schema"
+    ]
+  }
+}
